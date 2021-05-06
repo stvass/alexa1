@@ -523,7 +523,7 @@
         "id" : "pillar quartz block": "A pillar of quartz can be obtained by placing a block of quartz on top of a block of quartz in mine craft.",
         "id" : "firework rocket": "A firework rocket can be crafted by placing a firework star in the left middle square, a piece of paper in the center square, and gunpowder in the right middle square in a crafting table. Similar to a firework star, a firework rocket can have more gunpowder added in the bottom row to increase the duration of a rocket.",
         "id" : "rabbit stew": "Rabbit stew can be crafted by plagit ing cooked rabbit in the top middle square, a carrot in the middle left square, a baked potato in the center square, any type of mushroom in the middle right square, and a bowl in the bottom middle square.",
-        "cauldron": "A cauldron can be created by placing iron ingots in all squares but the top middle and very center squares in a crafting table.",
+        "id" : "cauldron": "A cauldron can be created by placing iron ingots in all squares but the top middle and very center squares in a crafting table.",
         "stone shovel": "All types of shovels can be crafted by placing the desired material in the top middle square, and then sticks in the two squares directly beneath that in a crafting table.",
         "red carpet": "Any type of carpet can be crafted by placing two wool, of the same color, next to each other in a crafting window.",
         "book and quill": "A book and quill can be crafted by placing a book in the middle left square, an ink sac in the very center square, and a feather in the bottom middle square in a crafting table.",
